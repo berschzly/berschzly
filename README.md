@@ -5,9 +5,9 @@ Building two apps and studying markets.
 ## Current Projects
 
 **Cardinal** - Mobile gift card manager  
-- 173 users in first week  
+- 180 users in first week  
 - React Native, Firebase, iOS & Android  
-- [App Store](link) | [Google Play](link)
+- [App Store](https://apps.apple.com/us/app/cardinal-gift-card-manager/id6756806812) | [Google Play](https://play.google.com/store/apps/details?id=com.cardinalapp.cardinal&hl=en_US)
 
 **Teen Job Board** - Hyperlocal marketplace for teen employment  
 - Launching March 2026 in Plymouth, IN  
@@ -35,8 +35,8 @@ Tools: Git, Vercel, Expo
 
 ## Connect
 
-- LinkedIn: [berlin-schrader](your-linkedin-url)
-- Medium: [@berlin-schrader](your-medium-url)
+- LinkedIn: [berlin-schrader](https://www.linkedin.com/in/berlin-schrader-63ab62374/)
+- Medium: [@berlin-schrader](https://medium.com/@berlinschradercontact/about)
 - Email: berlin@usecardinal.app
 
 ---
